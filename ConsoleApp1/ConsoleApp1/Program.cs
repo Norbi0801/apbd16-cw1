@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hej, hej, hej!");
 
-static double Average(double[] numbers)
+static double Test(double[] numbers)
 {
     return numbers.Average();
 }
