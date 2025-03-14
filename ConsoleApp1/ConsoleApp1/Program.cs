@@ -2,4 +2,7 @@
 
 Console.WriteLine("Hej, hej, hej!");
 
-Console.WriteLine("Hej, hej, hej!");
+static double Average(double[] numbers)
+{
+    return numbers.Average();
+}
