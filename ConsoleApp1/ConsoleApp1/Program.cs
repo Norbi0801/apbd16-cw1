@@ -7,7 +7,7 @@ static double Average(double[] numbers)
     return numbers.Average();
 }
 
-static double Max(double[] numbers)
+static double Test(double[] numbers)
 {
     return numbers.Max();
 }
